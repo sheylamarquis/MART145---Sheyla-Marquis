@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>My Hobby - Photograpphy</title>
+</head>
+<body>
+
+	<!-- Level 1 Heading -->
+	<h1>Exploring Nature Photography</h1>
+	
+	<!-- First Paragraph -->
+	<p>
+		Photography has always been one of my favorite hobbies because it allows me to capture fleeting moments and share unique visual perspectives. Whether I am exploringlocal trails or traveling to new places, carrying a camera turns every outing into a creative adventure.
+	</p>
+		
+	<!-- Level 2 Heading -->
+	<h2>Why I Love Capturing the Outdoors</h2>
+	
+	<!-- Second Paragraph -->
+	<p>
+		Working outdoors brings a continuous stream of changing light, dynamic landscapes, and unpredictable scenery. Learning how to adjust exposure settings and cinoise clean framing has helped me appreciate the subtle details in everyday environments.
+	</p>
+	
+	<!-- Image Requirement -->
+	<img src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800"
+		 alt="Scenic mountain landscape at sunset" 
+		 width="600">
+	
+	<!-- External Link Requirement -->
+	</p>
+		To learn more about composition techniques and camera settings, check out
+		<a href="https://www.nationalgeographic.com/photography" target="_blank">National Geographic's Photography Guide</a>.
+	</p>
+	
+</body>
+</html>
